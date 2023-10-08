@@ -66,4 +66,5 @@ Second, with generated low frequency wavelet-domain pictures, we use WMGM to get
    ```
 
 [1]: Datasets we used are from [CelebA-HQ128\*128](https://paperswithcode.com/dataset/celeba-hq) and  [Animal FacesHQ](https://paperswithcode.com/dataset/afhq)
+
 [2]: Improved-Diffusion we used are from [Improved Denoising Diffusion Probabilistic Models](https://github.com/openai/improved-diffusion)
