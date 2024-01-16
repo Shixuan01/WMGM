@@ -33,7 +33,7 @@ sampling steps and time.
 4. Download datasets in ./datasets folder [1]
 5. To train the model, run the `train.py` script:
     ```
-    python train.py --train_images_dir ./datasets/train --valid_images_dir ./datasets/valid
+    python train_wmgm.py --train_images_dir ./datasets/train --valid_images_dir ./datasets/valid
     ```
     
 >If you need to modify the weight of loss functions or the learning rate of Generator and Discriminator , you can add exrta parameters when training
